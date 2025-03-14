@@ -1,0 +1,43 @@
+{
+    "workbench.editor.empty.hint": "hidden",
+    "python.createEnvironment.trigger": "off",
+    "workbench.colorTheme": "Sweet Dracula",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorWidth": 3,
+    "apc.imports": [
+        "file:///c:/Users/Administrator/.windsurf/extensions/brandonkirbyson.vscode-animations-2.0.1-universal/dist/updateHandler.js"
+    ],
+    "workbench.colorCustomizations": {
+    "[Sweet Dracula]": {
+        "diffEditor.insertedTextBackground": "#50fa7b33",
+        "diffEditor.insertedTextBorder": "#50fa7b55",
+        "diffEditor.removedTextBackground": "#ff555533",
+        "diffEditor.removedTextBorder": "#ff555555"
+        
+    },
+        "terminal.background": "#00000000"
+    },
+    "editor.renderWhitespace": "none",
+    "lldb.dbgconfig": {
+
+    },
+    "windsurfPyright.analysis.diagnosticSeverityOverrides": {},
+    "glassit.alpha": 200,
+    "glassit.step": 4,
+    "workbench.settings.applyToAllProfiles": [
+    
+        "workbench.colorCustomizations"
+    ],
+    "vscode_vibrancy.enableAutoTheme": true,
+    "windsurf.autoExecutionPolicy": "off",
+    "windsurf.chatFontSize": "default",
+    "files.autoSave": "afterDelay",
+    "code-runner.runInTerminal": true,
+    "editor.tokenColorCustomizations": {
+
+    },
+    "editor.semanticTokenColorCustomizations": {
+        
+    }
+}
